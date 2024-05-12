@@ -1,6 +1,6 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
-class Espanso < Formula
+class Parms < Formula
   desc "Simple CLI to make interacting with SSM parameters not suck"
   homepage "https://github.com/icevans/parms"
   url "https://github.com/icevans/parms/releases/download/v0.1.0-alpha/parms-mac.tar.gz"
