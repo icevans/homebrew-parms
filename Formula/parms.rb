@@ -3,8 +3,8 @@
 class Parms < Formula
   desc "Simple CLI to make interacting with SSM parameters not suck"
   homepage "https://github.com/icevans/parms"
-  url "https://github.com/icevans/parms/releases/download/v0.1.0-alpha/parms-mac.tar.gz"
-  sha256 "306d2e468b79f8bb01e997f4928228a8ac0a75e7a347b59390d3b31083f29457"
+  url "https://github.com/icevans/parms/releases/download/v1.0.0/parms"
+  sha256 "45d41d4fb6362a67373d34d25c1d09a7e84ac1c027119c922aa14d06f88c825b"
   version "0.1.0"
 
   def install
